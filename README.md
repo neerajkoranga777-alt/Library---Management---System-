@@ -372,7 +372,7 @@ string readLine(const string& prompt) {
 void printMainMenu() {
     cout << R"(
   ╔══════════════════════════════════════╗
-  ║     📚  LIBRARY MANAGEMENT SYSTEM   ║
+  ║       LIBRARY MANAGEMENT SYSTEM   ║
   ╠══════════════════════════════════════╣
   ║  1. Book Management                 ║
   ║  2. Member Management               ║
